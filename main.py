@@ -5,7 +5,7 @@ from armia import arima_forecast
 import matplotlib.pyplot as plt
 
 # Config
-data_file = '/Users/mac/Downloads/Mini Project/Question 2 data/time_series_60min_singleindex.csv'
+data_file = 'time_series_60min_singleindex.csv file location'
 col = 'ES_wind_onshore_generation_actual'
 region = 'Spain'
 zoom = '2020-01'
