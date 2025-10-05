@@ -11,10 +11,10 @@ A Python program that finds the **most efficient flight routes** based on **flig
 
 ## Tech
 - **Language:** Python
-- **Libraries:** NumPy, Matplotlib, SciPy
+- **Libraries:** NumPy, Matplotlib, SciPy, statsmodel
 
 ## How to Run
 Download the data files and change the file placeholders in 'main.py'
 ```bash
-pip install numpy matplotlib scipy
+pip install numpy matplotlib scipy statsmodel
 python main.py
