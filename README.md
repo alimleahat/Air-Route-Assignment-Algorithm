@@ -14,7 +14,7 @@ A Python program that finds the **most efficient flight routes** based on **flig
 - **Libraries:** NumPy, Matplotlib, SciPy
 
 ## How to Run
-Download data files and change file placeholders in 'load.py'
+Download data file and change file placeholders in 'main.py'
 ```bash
 pip install numpy matplotlib scipy
 python main.py
